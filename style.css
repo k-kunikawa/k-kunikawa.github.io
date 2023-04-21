@@ -48,7 +48,7 @@ color:#265699;
 }
 p {
 margin:1em 0;
-font-size:13px;
+font-size:14px;
 line-height:150%;
 }
 img {
@@ -99,8 +99,13 @@ ul {
 margin: 0 0 0 1em;
 padding: 0;
 }
-li {
+ol {
 list-style:decimal; 
+font-size:14px;
+margin: 0 0 0 -1em;
+}
+li {
+font-size:14px;
 }
 #footer {
 text-align:center;
