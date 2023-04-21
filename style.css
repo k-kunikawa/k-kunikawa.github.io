@@ -1,14 +1,16 @@
 body {
-background-color:#f8f8f8;
-margin:0;
-padding:0;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+background-color: #ffffff; /*#f5f3eb*/ /*back ground color setting*/
+}
+.wrapper {
+margin: 0 auto 0 auto;
+width: 900px;
 }
 #outer {
 background-color:#fff;
 margin:0 auto;
-width:920px;
-border-left: 1px solid #e5e5e5;
-border-right: 1px solid #e5e5e5;
+width:980px;
 }
 #header {
 height:120px;
@@ -59,7 +61,7 @@ color:#094a94;
 }
 #content {
 float:right;
-width:700px;
+width:760px;
 }
 .inner {
 margin:0 30px 0 0;
