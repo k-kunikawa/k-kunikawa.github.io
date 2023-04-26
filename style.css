@@ -1,16 +1,10 @@
 body {
-margin: 0 0 0 0;
-padding: 0 0 0 0;
-background-color: #fffffa; /*#f5f3eb*/ /*back ground color setting*/
-}
-.wrapper {
-margin: 0 auto 0 auto;
-width: 900px;
+background-color: #fffffa; 
 }
 #outer {
 background-color:#fffffa;
-margin:0 auto 0 auto;
-width:975px;
+width:960px;
+margin:0;
 }
 #header {
 height:120px;
