@@ -9,7 +9,7 @@ width: 900px;
 }
 #outer {
 background-color:#fffffa;
-margin:0 auto;
+margin:0 auto 0 auto;
 width:975px;
 }
 #header {
