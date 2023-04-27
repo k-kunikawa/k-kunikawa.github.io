@@ -12,13 +12,13 @@ color:#094a94;
 #nav li {
     display: inline;
     list-style-type: none;
-    padding-right: 40px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 #nav {
     margin: 0 0 0 0;
     padding: 15px 30px 10px 30px;
 }
-
 #nav li a:link {
     text-decoration: none;
 }
