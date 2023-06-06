@@ -15,9 +15,9 @@ body {
 header {
 	padding: 20px 0 0 30px;
 	height: 100px;
-	background: linear-gradient(to bottom, rgb(238, 244, 225), rgb(238, 244, 225));
+	background: linear-gradient(to bottom, rgb(60, 55, 158), rgb(60, 55, 158));
 	font-size: 14px;
-	color: #555;
+	color: #f8f8f8;
 	border-top: 20px solid #fff;
 }
 #content {
