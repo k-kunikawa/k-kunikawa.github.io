@@ -61,7 +61,7 @@ aside {
 }
 .link a {
 	font-weight: normal;
-	color: #003366;
+	color: #0434a4;
 	text-decoration: none;
 }
 .link a:hover {
@@ -88,10 +88,11 @@ hr {
 }
 a {
 	font-weight: normal;
-	border-bottom-width: 1px;
-	border-bottom-color: #CCC;
-	color: #003366;
+	color: #0434a4;
 	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 h1 {
 	font-weight: bold;
