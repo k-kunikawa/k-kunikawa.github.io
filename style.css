@@ -69,7 +69,11 @@ aside {
 	text-decoration: underline;
 }
 ul {
-	margin: 0 0 0 1em;
+	margin: 0 0 0 2em;
+	padding: 0;
+}
+ol {
+	margin: 0 0 0 2em;
 	padding: 0;
 }
 .link li {
